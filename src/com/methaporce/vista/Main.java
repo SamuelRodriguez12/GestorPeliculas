@@ -5,6 +5,7 @@ import com.methaporce.modelo.GestorPeliculas;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Nueva funcionalidad");
         int indice=0;
         int id=0;
         String nombre;
